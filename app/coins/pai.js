@@ -53,9 +53,9 @@ module.exports = {
 	name:"Paicoin",
 	ticker:"PAI",
 	logoUrlsByNetwork:{
-		"main":"/img/logo/btc.svg",
-		"test":"/img/logo/tbtc.svg",
-		"regtest":"/img/logo/tbtc.svg"
+		"main":"/img/logo/paicoin.ico",
+		"test":"/img/logo/paicoin_testnet.ico",
+		"regtest":"/img/logo/paicoin_testnet.ico"
 	},
 	siteTitlesByNetwork: {
 		"main":"Paicoin Explorer",

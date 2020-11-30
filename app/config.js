@@ -177,9 +177,9 @@ module.exports = {
 				{
 					title:"Related Sites",
 					links:[
-						{name: "Bitcoin Explorer", url:"https://explorer.btc21.org", imgUrl:"/img/logo/btc.svg"},
-						{name: "Testnet Explorer", url:"https://testnet.btc21.org", imgUrl:"/img/logo/tbtc.svg"},
-						{name: "LND Admin", url:"https://lnd-admin.btc21.org", imgUrl:"/img/logo/lnd-admin.png"},
+						{name: "Paicoin Explorer", url:"https://explorer.paicoin.org", imgUrl:"/img/logo/paicoin.ico"},
+						{name: "Testnet Explorer", url:"https://testnet.paicoin.org", imgUrl:"/img/logo/paicoin_testnet.ico"},
+						//{name: "LND Admin", url:"https://lnd-admin.btc21.org", imgUrl:"/img/logo/lnd-admin.png"},
 						//{name: "Litecoin Explorer", url:"https://ltc.chaintools.io", imgUrl:"/img/logo/ltc.svg"},
 						//{name: "Lightning Explorer", url:"https://lightning.chaintools.io", imgUrl:"/img/logo/lightning.svg"},
 					]

@@ -1,7 +1,7 @@
 {
-	"name": "btc-rpc-explorer",
-	"version": "2.0.2",
-	"description": "Open-source, self-hosted Bitcoin explorer",
+	"name": "pai-rpc-explorer",
+	"version": "0.0.1",
+	"description": "Open-source, self-hosted Paicoin explorer",
 	"private": false,
 	"bin": "bin/cli.js",
 	"scripts": {
@@ -9,15 +9,15 @@
 		"refresh-mining-pool-configs": "node ./bin/refresh-mining-pool-configs.js"
 	},
 	"keywords": [
-		"bitcoin",
-		"btc",
+		"paicoin",
+		"pai",
 		"blockchain"
 	],
-	"author": "Dan Janosik <dan@47.io>",
+	"author": "Paicoin Org<contact@paicoin.org>",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/janoside/btc-rpc-explorer.git"
+		"url": "git+https://github.com/paicoin/pai-rpc-explorer.git"
 	},
 	"dependencies": {
 		"async": "^3.2.0",
