@@ -1,6 +1,6 @@
 {
 	"name": "pai-rpc-explorer",
-	"version": "0.0.1",
+	"version": "2.1.0",
 	"description": "Open-source, self-hosted Paicoin explorer",
 	"private": false,
 	"bin": "bin/cli.js",
